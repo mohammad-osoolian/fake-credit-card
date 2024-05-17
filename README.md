@@ -1,5 +1,5 @@
 # fake-credit-card
-This is a mini project that creates fake credit card images using the templates from various banks in Iran. The Images are used for OCR task in computer vision.
+This is a mini project that generates fake credit card images using the templates from various banks in Iran. The Images are used for OCR task in computer vision.
 
 Templates are collected from the internet and are as follows:
 - Meli
@@ -16,3 +16,5 @@ Templates are collected from the internet and are as follows:
 - Ghavamin
 - Dey
 - Sina
+
+There are multiple templates for some banks.
